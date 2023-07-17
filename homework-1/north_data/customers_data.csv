@@ -1,6 +1,6 @@
-"customer_id","company_name","contact_name"
+customer_id,company_name,contact_name
 "ALFKI","Alfreds Futterkiste","Maria Anders"
-"ANATR","Ana Trujillo Emparedados y helados","Ana Trujillo"
+"ANATR",Ana Trujillo Emparedados y helados,"Ana Trujillo"
 "ANTON","Antonio Moreno Taquería","Antonio Moreno"
 "AROUT","Around the Horn","Thomas Hardy"
 "BERGS","Berglunds snabbköp","Christina Berglund"
@@ -13,7 +13,7 @@
 "CACTU","Cactus Comidas para llevar","Patricio Simpson"
 "CENTC","Centro comercial Moctezuma","Francisco Chang"
 "CHOPS","Chop-suey Chinese","Yang Wang"
-"COMMI","Comércio Mineiro","Pedro Afonso"
+"COMMI",Comércio Mineiro,"Pedro Afonso"
 "CONSH","Consolidated Holdings","Elizabeth Brown"
 "DRACD","Drachenblut Delikatessen","Sven Ottlieb"
 "DUMON","Du monde entier","Janine Labrune"
